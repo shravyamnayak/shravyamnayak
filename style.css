@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding:0;
+}
+.a{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(241, 83, 215);
+    background-color:rgb(192, 206, 245);
+    border: 5px black outset;
+}
+    
+    
+  .b{
+    text-align:center;
+    background-color:rgb(238, 163, 226);
+    height: 200px;
+    margin: 20px;
+    padding: 1%;
+    color:black;
+    margin: 10px;
+}
+  ol{
+    list-style: none;
+  }
+  footer{
+    text-align: center;
+  }
+
