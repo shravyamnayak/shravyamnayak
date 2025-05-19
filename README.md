@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shravya Nayak 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;Passionate+Tech+Explorer;Open+Source+Contributor;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;&center=true&width=500&height=45">
 </p>
 
 ---
