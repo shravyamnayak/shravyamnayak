@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
