@@ -82,3 +82,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shravyamnayak&label=Profile%20Views&color=0e75b6&style=flat" alt="shravyamnayak" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <b>“Code. Create. Contribute.”</b> 💻✨
+</p>
