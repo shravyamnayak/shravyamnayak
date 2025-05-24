@@ -36,15 +36,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravyamnayak&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shravyamnayak&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shravyamnayak&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravyamnayak&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravyamnayak&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravyamnayak&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravyamnayak&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
