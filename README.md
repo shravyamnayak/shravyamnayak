@@ -8,9 +8,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
-    </td>
-    <td>
       <h3>👩‍💻 About Me</h3>
       <ul>
         <li>🎓 B.Tech CSE | 4th Semester</li>
@@ -20,9 +17,11 @@
         <li>🌱 Always learning something new!</li>
       </ul>
     </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
+    </td>
   </tr>
 </table>
-
 
 ---
 
