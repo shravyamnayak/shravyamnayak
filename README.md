@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shravya Nayak 👋</h1>
+<h1 align="center">Hi there, I'm Shravya Nayak <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="waving hand"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;&center=true&width=500&height=45">
