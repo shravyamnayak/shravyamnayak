@@ -5,6 +5,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,cpp,html,css,js,github" />
+</p>
 
 ### 👩‍💻 About Me
 
