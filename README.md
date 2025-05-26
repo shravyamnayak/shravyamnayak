@@ -5,24 +5,26 @@
 </p>
 
 ---
-<!-- Full-width layout: About Me on the left, GIF on the right -->
-<table width="100%">
-  <tr>
-    <td align="left" width="65%" valign="top">
-      <h3>👩‍💻 About Me</h3>
-      <ul>
-        <li>🎓 B.Tech CSE | 4th Semester</li>
-        <li>🚀 Currently working on: <strong>Doctor Appointment System</strong></li>
-        <li>💡 Exploring: Flask, MySQL, Docker, DSA (C++)</li>
-        <li>🎯 Goals: Internship + Placement Prep</li>
-        <li>🌱 Always learning something new!</li>
-      </ul>
-    </td>
-    <td align="center" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="coding gif"/>
-    </td>
-  </tr>
-</table>
+<!-- About Me and GIF Side-by-Side Full Width -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="60%" align="left" valign="top">
+        <h3>👩‍💻 About Me</h3>
+        <p>
+          🎓 B.Tech CSE | 4th Semester<br>
+          🚀 Currently working on: <strong>Doctor Appointment System</strong><br>
+          💡 Exploring: Flask, MySQL, Docker, DSA (C++)<br>
+          🎯 Goals: Internship + Placement Prep<br>
+          🌱 Always learning something new!
+        </p>
+      </td>
+      <td width="40%" align="center" valign="top">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding gif" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
