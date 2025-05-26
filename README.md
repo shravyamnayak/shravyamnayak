@@ -16,7 +16,6 @@
 
 ---
 
-
 ### 🛠️ Tech Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" />
