@@ -5,17 +5,24 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding gif" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
+    </td>
+    <td>
+      <h3>👩‍💻 About Me</h3>
+      <ul>
+        <li>🎓 B.Tech CSE | 4th Semester</li>
+        <li>🚀 Currently working on: <strong>Doctor Appointment System</strong></li>
+        <li>💡 Exploring: Flask, MySQL, Docker, DSA (C++)</li>
+        <li>🎯 Goals: Internship + Placement Prep</li>
+        <li>🌱 Always learning something new!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 👩‍💻 About Me
-
-- 🎓 B.Tech CSE | 4th Semester  
-- 🚀 Currently working on: **Doctor Appointment System**  
-- 💡 Exploring: Flask, MySQL, Docker, DSA (C++)  
-- 🎯 Goals: Internship + Placement Prep  
-- 🌱 Always learning something new!
 
 ---
 
