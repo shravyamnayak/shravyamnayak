@@ -5,10 +5,10 @@
 </p>
 
 ---
-<!-- About Me (left) + GIF (right) with clean layout -->
-<table>
+<!-- Full-width layout: About Me on the left, GIF on the right -->
+<table width="100%">
   <tr>
-    <td valign="top" width="60%">
+    <td align="left" width="65%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <ul>
         <li>🎓 B.Tech CSE | 4th Semester</li>
@@ -18,11 +18,12 @@
         <li>🌱 Always learning something new!</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
+    <td align="center" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="coding gif"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
