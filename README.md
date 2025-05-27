@@ -6,29 +6,14 @@
 
 ---
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5ODZlM2JkN2MxYzhiNWYwZDljYWY2NTY3YTIyYzhjOGI4ZTcxNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350" height="250">
----
-<!-- About Me and GIF Side-by-Side Full Width -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="left" valign="top">
-        <h3>👩‍💻 About Me</h3>
-        <p>
-          🎓 B.Tech CSE | 4th Semester<br>
-          🚀 Currently working on: <strong>Doctor Appointment System</strong><br>
-          💡 Exploring: Flask, MySQL, Docker, DSA (C++)<br>
-          🎯 Goals: Internship + Placement Prep<br>
-          🌱 Always learning something new!
-        </p>
-      </td>
-      <td width="40%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding gif" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+### 👩‍💻 About Me
+- 🎓 B.Tech CSE | 4th Semester  
+- 🚀 Currently working on: **Doctor Appointment System**  
+- 💡 Exploring: Flask, MySQL, Docker, DSA (C++)  
+- 🎯 Goals: Internship + Placement Prep  
+- 🌱 Always learning something new!
+
 ---
 
 ### 🛠️ Tech Stack:
