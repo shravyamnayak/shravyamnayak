@@ -13,6 +13,8 @@
 - 💡 Exploring: Flask, MySQL, Docker, DSA (C++)  
 - 🎯 Goals: Internship + Placement Prep  
 - 🌱 Always learning something new!
+- 💬 Ask me about: Full-stack dev, Databases, GitHub customization
+- 🤝 Open to: Collaboration on web dev & DSA projects
 
 ---
 
