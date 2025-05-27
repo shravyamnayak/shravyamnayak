@@ -5,6 +5,7 @@
 </p>
 
 ---
+---
 <!-- About Me and GIF Side-by-Side Full Width -->
 <div align="center">
   <table width="100%">
@@ -26,6 +27,7 @@
   </table>
 </div>
 
+---
 ---
 
 ### 🛠️ Tech Stack:
