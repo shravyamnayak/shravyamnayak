@@ -80,6 +80,12 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 🔹 [**Doctor Appointment System**](https://github.com/shravyamnayak/doctor-appointment-system)  
+  Full-stack web app using Flask, MySQL, Docker. Role-based access for Admin, Doctor, and Patient.
+
+  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
