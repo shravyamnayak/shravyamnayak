@@ -16,10 +16,6 @@
 - 💬 Ask me about: Full-stack dev, Databases, GitHub customization
 - 🤝 Open to: Collaboration on web dev & DSA projects
 
-
-
-
-
 ---
 
 ### 🛠️ Tech Stack:
