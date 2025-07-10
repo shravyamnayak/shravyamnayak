@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE | 4th Semester  
 - 🚀 Currently working on: **Doctor Appointment System**  
-- 💡 Exploring: Flask, MySQL, Docker, DSA (C++)  
+- 💡 Exploring: Flask, MySQL, Docker, DSA (java)  
 - 🎯 Goals: Internship + Placement Prep  
 - 🌱 Always learning something new!
 - 💬 Ask me about: Full-stack dev, Databases, GitHub customization
