@@ -15,7 +15,8 @@
 - 🌱 Always learning something new!
 - 💬 Ask me about: Full-stack dev, Databases, GitHub customization
 - 🤝 Open to: Collaboration on web dev & DSA projects
-
+- ⚡ Fun fact: I probably debug more than I code 😄
+  
 ---
 
 ### 🛠️ Tech Stack:
