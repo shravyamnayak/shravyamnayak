@@ -8,7 +8,7 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5ODZlM2JkN2MxYzhiNWYwZDljYWY2NTY3YTIyYzhjOGI4ZTcxNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350" height="230">
 
 ### 👩‍💻 About Me
-- 🎓 B.Tech CSE | 4th Semester  
+- 🎓 B.Tech CSE | 5th Semester  
 - 🚀 Currently working on: **Doctor Appointment System**  
 - 💡 Exploring: Flask, MySQL, Docker, DSA (java)  
 - 🎯 Goals: Internship + Placement Prep  
